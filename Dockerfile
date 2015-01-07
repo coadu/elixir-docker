@@ -1,4 +1,4 @@
-FROM coadu/erlang-docker
+FROM coadu/erlang
 
 MAINTAINER Mads Flensted-Urech, Coadu.com
 
